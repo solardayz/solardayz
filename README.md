@@ -5,16 +5,17 @@
 ## 📊 GitHub Stats
 ![solardayz's GitHub stats](https://github-readme-stats.vercel.app/api?username=solardayz&show_icons=true&theme=radical)
 
-
 ## 💼 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solardayz&layout=compact&theme=radical)
-
 
 # 💪 Skills
 ## Languages
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java)
 ![JSP](https://img.shields.io/badge/JSP-F8DC75?style=flat&logo=java)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=thymeleaf)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
 
 ## Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
