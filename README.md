@@ -1,3 +1,10 @@
+# 👋 Hello, I'm solardayz!
+
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsolardayz&count_bg=%23FFDAC7&title_bg=%23FFADAD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
+
+![solardayz's GitHub stats](https://github-readme-stats.vercel.app/api?username=solardayz&show_icons=true&theme=radical)
+
+
 # 💪 Skills
 ## Platforms & Languages
 - ![Xplatform](https://img.shields.io/badge/Xplatform-333333?style=for-the-badge&logo=java)
