@@ -8,7 +8,6 @@
 # 💪 Skills
 ## Platforms & Languages
 - ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java)
-- ![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat)
 - ![JSP](https://img.shields.io/badge/JSP-F8DC75?style=for-the-badge&logo=java)
 - ![Unix/Linux](https://img.shields.io/badge/Unix/Linux-000000?style=for-the-badge&logo=linux)
 
