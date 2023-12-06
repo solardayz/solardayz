@@ -6,10 +6,10 @@
 
 
 # 💪 Skills
-## Platforms & Languages
+## Languages
 - ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java)
 - ![JSP](https://img.shields.io/badge/JSP-F8DC75?style=for-the-badge&logo=java)
-- ![Unix/Linux](https://img.shields.io/badge/Unix/Linux-000000?style=for-the-badge&logo=linux)
+- ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf)
 
 ## Database
 - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
