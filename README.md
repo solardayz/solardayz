@@ -7,17 +7,17 @@
 
 # 💪 Skills
 ## Platforms & Languages
-- ![Xplatform](https://img.shields.io/badge/Xplatform-333333?style=for-the-badge&logo=java)
 - ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java)
-- ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle)
 - ![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat)
 - ![JSP](https://img.shields.io/badge/JSP-F8DC75?style=for-the-badge&logo=java)
 - ![Unix/Linux](https://img.shields.io/badge/Unix/Linux-000000?style=for-the-badge&logo=linux)
 
-## Database
-- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+## Database- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 - ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
+- ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 - ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white)
+
 
 ## Tools
 - ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
