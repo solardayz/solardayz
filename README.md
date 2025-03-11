@@ -47,11 +47,6 @@
   <img src="https://img.shields.io/badge/JPA-333333?style=flat&logo=java" alt="JPA"/>
 </p>
 
-### Mobile
-<p align="left">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android" alt="Android"/>
-</p>
-
 ### Build & Package Management
 <p align="left">
   <img src="https://img.shields.io/badge/Maven-666666?style=flat&logo=apache-maven" alt="Maven"/>
