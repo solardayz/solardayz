@@ -1,58 +1,70 @@
-# 👋 Hello, I'm solardayz!
+# 👋 Hello, I'm solardayz
 
-🚀 Passionate Developer | Java & Spring Enthusiast | Mobile & Web Development
+🏋️‍♂️ **복싱하는 개발자** | 🧑‍💻 **Java & Spring Developer** | 📱 **Web & Mobile Creator**  
+"기초는 약해도, 끈기는 강하다. 코드는 내 펀치다. 🥊"
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsolardayz&count_bg=%23FFDAC7&title_bg=%23FFADAD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/solardayz)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/solardayz&count_bg=%23EBC7FF&title_bg=%23B86AD8&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://github.com/solardayz)
 
+---
+
+## 🚀 About Me
+
+- 🎓 전공보다 실전! 프로젝트로 성장하는 개발자
+- 📱 웹부터 앱까지 직접 만드는 풀사이클러
+- 💬 복싱도, 코딩도 하루 한 줄 한 방
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Language & Frameworks
 <p align="left">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=solardayz&show_icons=true&theme=tokyonight&count_private=true" alt="solardayz's GitHub stats" /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solardayz&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart" />
+  <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=thymeleaf" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python" />
 </p>
 
-## 🛠️ Tech Stack
-
-### Languages
+### 🧰 Back-End
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java" alt="Java"/>
-  <img src="https://img.shields.io/badge/JSP-F8DC75?style=flat&logo=java" alt="JSP"/>
-  <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=thymeleaf" alt="Thymeleaf"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart" alt="Dart"/>
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js" alt="Vue.js"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python" alt="Python"/>
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=spring" />
+  <img src="https://img.shields.io/badge/JPA-59666C?style=flat&logo=hibernate" />
+  <img src="https://img.shields.io/badge/iBatis-666666?style=flat" />
+  <img src="https://img.shields.io/badge/REST API-009688?style=flat&logo=cloudflare" />
 </p>
 
-### Database
+### 🗃️ Database
 <p align="left">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white" alt="Oracle"/>
-  <img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" alt="MSSQL"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white" alt="Redis"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis" />
 </p>
 
-### Tools
+### 🛠 Tools & IDEs
 <p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=Android%20Studio&logoColor=white" alt="Android Studio"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=white" alt="Visual Studio Code"/>
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=IntelliJ%20IDEA&logoColor=white" alt="IntelliJ IDEA"/>
+  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=intellijidea&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat&logo=visualstudiocode" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github" />
 </p>
 
-### Frameworks & Libraries
+### 🔧 Build & DevOps
 <p align="left">
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring" alt="Spring"/>
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=spring" alt="SpringBoot"/>
-  <img src="https://img.shields.io/badge/iBatis-666666?style=flat&logo=java" alt="iBatis"/>
-  <img src="https://img.shields.io/badge/JPA-333333?style=flat&logo=java" alt="JPA"/>
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven" />
 </p>
 
-### Build & Package Management
+---
+
+## 📊 GitHub Stats
+
 <p align="left">
-  <img src="https://img.shields.io/badge/Maven-666666?style=flat&logo=apache-maven" alt="Maven"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solardayz&layout=compact&theme=tokyonight" />
 </p>
 
-### API & Integration
-<p align="left">
-  <img src="https://img.shields.io/badge/RestAPI-007396?style=flat&logo=rest" alt="RestAPI"/>
-</p>
+---
+
+> **“지금 이 순간에도, 누군가는 코드를 짜고 있다.”**  
+> 나도 그 중 하나다. 😎
