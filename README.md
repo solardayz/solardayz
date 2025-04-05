@@ -1,70 +1,53 @@
-# 👋 Hello, I'm solardayz
+# 👋 안녕하세요, I'm solardayz!
 
-🏋️‍♂️ **복싱하는 개발자** | 🧑‍💻 **Java & Spring Developer** | 📱 **Web & Mobile Creator**  
-"기초는 약해도, 끈기는 강하다. 코드는 내 펀치다. 🥊"
-
-![Visitors](https://komarev.com/ghpvc/?username=solardayz&color=blueviolet&style=flat)
-
----
-
-## 🚀 About Me
-
-- 🎓 전공보다 실전! 프로젝트로 성장하는 개발자
-- 📱 웹부터 앱까지 직접 만드는 풀사이클러
-- 💬 복싱도, 코딩도 하루 한 줄 한 방
+🥊 **출석 관리 시스템**을 직접 기획하고, 개발하고, 런칭까지 진행 중인 1인 스타트업형 개발자입니다.  
+**Java & Spring Boot**부터 **Flutter 앱 개발**, **데이터베이스 설계**, **인프라 구축(Docker, MySQL)**,  
+그리고 **이메일 인증 로직까지 직접 구현**하는 진성 실무형 풀스택 개발자.
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ 기술 스택 (Tech Stack)
 
-### 💻 Language & Frameworks
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart" />
-  <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=thymeleaf" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python" />
-</p>
+### 💻 Languages
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js)
 
-### 🧰 Back-End
-<p align="left">
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=spring" />
-  <img src="https://img.shields.io/badge/JPA-59666C?style=flat&logo=hibernate" />
-  <img src="https://img.shields.io/badge/iBatis-666666?style=flat" />
-  <img src="https://img.shields.io/badge/REST API-009688?style=flat&logo=cloudflare" />
-</p>
+### 🧰 Frameworks & Libraries
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=spring)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter)
+![JPA](https://img.shields.io/badge/JPA-59666C?style=flat&logo=hibernate)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=thymeleaf)
 
-### 🗃️ Database
-<p align="left">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis" />
-</p>
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis)
 
-### 🛠 Tools & IDEs
-<p align="left">
-  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=intellijidea&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat&logo=visualstudiocode" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github" />
-</p>
-
-### 🔧 Build & DevOps
-<p align="left">
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven" />
-</p>
+### ⚙️ DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellij-idea)
 
 ---
 
-## 📊 GitHub Stats
+## 📌 주요 프로젝트
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solardayz&layout=compact&theme=tokyonight" />
-</p>
+### 🥋 **NTBC Attendance System**
+- Flutter 앱 + Spring Boot 백엔드 + MySQL
+- QR 출석 체크, 이메일 인증, 관리자 대시보드 포함
+- MVP 런칭 진행 중, 실제 피드백 반영 중
 
 ---
 
-> **“지금 이 순간에도, 누군가는 코드를 짜고 있다.”**  
-> 나도 그 중 하나다. 😎
+## 📫 연락하기
+
+- **Email:** solardayz@naver.com  
+- **GitHub:** [solardayz](https://github.com/solardayz)
+
+---
+
+> “기초는 부족할 수 있어도, **결과는 확실하게 만든다.**  
+> 지금도 만들어가는 개발자, solardayz입니다.” ☀️
