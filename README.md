@@ -3,7 +3,8 @@
 🏋️‍♂️ **복싱하는 개발자** | 🧑‍💻 **Java & Spring Developer** | 📱 **Web & Mobile Creator**  
 "기초는 약해도, 끈기는 강하다. 코드는 내 펀치다. 🥊"
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/solardayz&count_bg=%23EBC7FF&title_bg=%23B86AD8&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://github.com/solardayz)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=github.com/solardayz)](https://github.com/solardayz)
+
 
 ---
 
