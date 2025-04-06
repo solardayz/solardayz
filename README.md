@@ -49,7 +49,7 @@
 ### 🥋 NTB Attendance System
 - **QR 기반 출석 체크 시스템**
 - **기술 스택:** Flutter + Spring Boot + MySQL
-- Render 서버 배포 예정, MVP 개발 완료
+- Render 서버 배포 예정, MVP 개발 중
 
 ---
 
