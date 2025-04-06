@@ -36,30 +36,31 @@ Juna Universe: NTB Developer Portfolio
 ---
 
 🔗 프로젝트 소개
-
 🥋 NTB Attendance System
 	•	QR 기반 출석 체크 시스템
 	•	Flutter + Spring Boot + MySQL
 	•	Render 서버 배포 예정, MVP 개발 완료
 
-✨ Today Advice – 조언 카드 앱
 
+✨ Today Advice – 조언 카드 앱
 Google Play 출시 대기 중
 	•	3장의 조언 카드 제공, 프리미엄 카드는 보상형 광고로 열람
 	•	콘텐츠는 API 서버에서 동적으로 제공
 	•	Google Play 프로덕션 심사 중
+
 
 🧘 체육관 회원관리 시스템
 	•	내가 다니는 체육관에 실제 도입
 	•	Spring Boot + PostgreSQL + Docker
 	•	실사용자 피드백을 반영한 실제 운영 경험
 
+
 ⏰ 시간표 알람 앱 (현재 개발 보류)
 	•	개인 일정 관리 앱
 	•	알람 기능 이슈로 개발 중단, 보완 후 재기획 예정
 
-⚔️ NTBC 텍스트 RPG
 
+⚔️ NTBC 텍스트 RPG
 프로토타입 보기
 	•	세계관 감성과 캐릭터 중심의 텍스트 기반 RPG
 	•	이야기 중심 실험 프로젝트
@@ -70,7 +71,7 @@ Google Play 출시 대기 중
 	•	체육관 운영자를 위한 소개 페이지
 	•	브랜딩 및 이미지 기반 콘텐츠 제공
 
-⸻
+---
 
 🧑‍💻 About Me
 
@@ -82,13 +83,13 @@ Google Play 출시 대기 중
 이 공간은 단순한 코드 저장소가 아닙니다.
 사람과 이야기, 구조와 감정이 함께 숨 쉬는 작은 세계입니다.
 
-⸻
+---
 
 📫 Contact
 	•	Email: solardayz@naver.com
 	•	GitHub: solardayz
 
-⸻
+---
 
 “오늘보다 내일이 더 나은 개발자이길.”
 지금도 만들어가는 개발자, solardayz입니다. ☀️
