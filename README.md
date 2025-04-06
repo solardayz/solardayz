@@ -1,6 +1,6 @@
 # 👋 안녕하세요, I'm solardayz!
 
-# Juna Universe: NTBC Developer Portfolio
+# Juna Universe: NTB Developer Portfolio
 
 안녕하세요, 저는 solardayz (a.k.a. Juna)입니다.  
 이곳은 제가 직접 기획하고 개발한 실전 프로젝트들의 모음 공간입니다.  
@@ -37,7 +37,7 @@
 
 ## 🔗 프로젝트 목록
 
-### 🥋 [NTB Attendance System](아직없음)
+### 🥋 [NTB Attendance System]
 - QR 기반 출석 체크 시스템
 - Flutter + Spring Boot + MySQL
 - Render 배포 예정, MVP 진행 중
