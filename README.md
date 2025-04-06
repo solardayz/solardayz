@@ -36,6 +36,7 @@ Juna Universe: NTB Developer Portfolio
 ---
 
 🔗 프로젝트 소개
+
 🥋 NTB Attendance System
 	•	QR 기반 출석 체크 시스템
 	•	Flutter + Spring Boot + MySQL
