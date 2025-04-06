@@ -35,7 +35,7 @@
 
 ## 📌 주요 프로젝트
 
-### 🥋 **NTBC Attendance System**
+### 🥋 **NTB Attendance System**
 - Flutter 앱 + Spring Boot 백엔드 + MySQL
 - QR 출석 체크, 이메일 인증, 관리자 대시보드 포함
 - MVP 런칭 진행 중, 실제 피드백 반영 중
