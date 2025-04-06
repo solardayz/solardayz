@@ -1,11 +1,11 @@
-# 👋 안녕하세요, I'm solardayz!
+👋 안녕하세요, I’m solardayz!
 
-# Juna Universe: NTB Developer Portfolio
+Juna Universe: NTB Developer Portfolio
 
-안녕하세요, 저는 solardayz (a.k.a. Juna)입니다.  
-이곳은 제가 직접 기획하고 개발한 실전 프로젝트들의 모음 공간입니다.  
-출석 체크 시스템부터 조언 카드 앱, 체육관 운영 시스템, 텍스트 RPG까지  
-하나하나 진심으로 만들고 실제로 운영하거나 배포 준비 중입니다.
+안녕하세요, solardayz (a.k.a. Juna)입니다.
+이곳은 제가 직접 기획하고 개발한 실전 프로젝트들을 소개하는 공간입니다.
+출석 체크 시스템부터 조언 카드 앱, 체육관 운영 시스템, 텍스트 RPG까지
+하나하나 진심을 담아 만들고, 실제 운영하거나 배포를 준비 중입니다.
 ---
 
 ## 🛠️ 기술 스택 (Tech Stack)
