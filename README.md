@@ -20,7 +20,7 @@ ERP와 이커머스 같은 기업 업무 시스템을 만들어 온 경험 위�
 * **사내 규정 RAG 챗봇** — 그룹웨어 게시판의 공지·규정·첨부파일을 자동 수집(Playwright)하고, 로컬 임베딩(Ollama bge-m3)·벡터 DB(ChromaDB)로 색인해 사내 규정을 정확히 답하는 FastAPI 기반 챗봇
 
 ### 🎮 인터랙티브 웹 & 게임 개발
-* Godot 엔진 기반 2D/3D 웹 크로스플랫폼 게임 제작 및 GitHub Actions CI/CD 자동 배포
+* Godot 엔진 및 Three.js 기반 2D/3D 웹 크로스플랫폼 게임 제작 및 GitHub Actions CI/CD 자동 배포
 
 ---
 
@@ -30,7 +30,7 @@ ERP와 이커머스 같은 기업 업무 시스템을 만들어 온 경험 위�
 Java · Python · Dart · JavaScript · GDScript
 
 **Frameworks & Engines**  
-Spring Boot · JPA · Thymeleaf · Vue.js · React · Next.js · FastAPI · Flutter · Godot Engine 4
+Spring Boot · JPA · Thymeleaf · Vue.js · React · Next.js · FastAPI · Flutter · Godot Engine 4 · Three.js
 
 **AI / Data**  
 Ollama (로컬 LLM) · RAG (ChromaDB · bge-m3) · Playwright 크롤링
@@ -47,7 +47,8 @@ MySQL · Oracle · PostgreSQL · SQLite · Redis · Docker · Git · GitHub Acti
 * **체육관 회원관리 시스템** — Spring Boot와 PostgreSQL 기반으로 개발하여 실제 체육관에 도입·운영 중인 회원 및 수업 관리 서비스
 
 ### 🎮 Interactive Web Games (Live Demo)
-* **[SOUL M (소울엠)](https://solardayz.github.io/soulm/)** · [Code](https://github.com/solardayz/soulm) — Godot 4.7 3D 웹 소울라이크. 안개문을 지나 첫 보스 "심판자"와 싸우는 구간. 2연타 공격·막기·패리(리포스트)·구르기·락온, 바닥 부채꼴 공격 예고, 2페이즈 보스 AI, 모바일 터치 지원
+* **[OBBY (3D 점프맵)](https://solardayz.github.io/obby/)** · [Code](https://github.com/solardayz/obby) — Three.js 기반 **3D 로블록스 스타일 오비(파쿠르 점프맵) 웹 게임**. 근본 Noob 캐릭터, 3인칭 오빗 카메라, 6단계 장애물(무지개 계단·킬 레이저·사라지는 발판·회전봉·빅토리 타워), 모바일 가상 조이스틱 & Web Audio API 사운드 탑재
+* **[SOUL M (소울엠)](https://solardayz.github.io/soulm/)** · [Code](https://github.com/solardayz/soulm) — Godot 4.7 3D 웹 소울라이크. 거대 스켈레톤 킹 보스전, 공격·막기·패리·구르기·락온 전투, 2페이즈 분노 모드, 모바일 터치 지원
 * **[DUNGEON (던전 RPG)](https://solardayz.github.io/dungeon/)** · [Code](https://github.com/solardayz/dungeon) — Godot 4.7 2.5D 아이소메트릭 핵앤슬래시. 고블린 웨이브·보스전, 화염구·휠윈드 스킬, 전리품 드랍, 자체 합성 사운드/BGM
 
 ---
